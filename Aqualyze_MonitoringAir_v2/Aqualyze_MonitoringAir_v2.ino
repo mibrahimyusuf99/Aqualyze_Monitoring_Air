@@ -3,6 +3,7 @@
  *  AQUALYZE - SISTEM MONITORING KUALITAS AIR KOLAM IKAN NILA
  * ============================================================
  *  Proyek     : Aqualyze
+ *  Versi      : 1.2
  *  Penyusun   : Muhammad Ibrahim Yusuf (NIM 10824006)
  *  Program    : D3 Teknik Komputer, UNIKOM
  *  Deskripsi:
