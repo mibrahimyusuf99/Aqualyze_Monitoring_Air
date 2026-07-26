@@ -40,7 +40,7 @@ Sensor → Raw Data → Median Filter → Threshold → MQTT Publish
 ## Contoh Payload
 
 ```json
-{"message_id":"MSG-Aqualyze-Nila-001-0000000005","device_id":"Aqualyze-Nila-001","lokasi":"Kolam Nila A","timestamp":"2026-07-25T18:45:37+07:00","status":{"node_status":"online","ip":"192.168.43.208"},"data":{"suhu":27.56,"status_suhu":"Normal","turbidity_v":1.35,"turbidity_ntu":94,"status_kekeruhan":"Danger","ph":6.94,"status_ph":"Normal"},"location":{"latitude":-6.8914,"longitude":107.610704,"altitude_mdpl":751.98}}
+{"message_id":"MSG-Aqualyze-Nila-001-0000000004","device_id":"Aqualyze-Nila-001","lokasi":"Kolam Nila A","timestamp":"2026-07-26T09:54:28+07:00","status":{"node_status":"online","ip":"192.168.43.208"},"data":{"suhu":22.06,"turbidity_v":1.65,"turbidity_ntu":5,"ph":7.05},"location":{"latitude":-6.8914,"longitude":107.610704,"altitude_mdpl":752.17}}
 ```
 
 ## Web Dashboard
